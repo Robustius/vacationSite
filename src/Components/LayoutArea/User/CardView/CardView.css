@@ -1,0 +1,12 @@
+.CardView {
+	position: absolute;
+    margin-left: 40em;
+}
+.Card{
+
+    margin: 10px;
+    float: right;
+}
+.fbutton{
+    border-radius: 10px;
+}
